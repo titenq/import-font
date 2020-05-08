@@ -1,5 +1,5 @@
 # import-font
-![PNG import-font](https://github.com/titenq/import-font/blob/master/import-font.png?raw=true)
+![PNG import-font](https://github.com/titenq/import-font/blob/master/icon.png?raw=true)
 
 Snippets para importação de fonts do Google Fonts.
 

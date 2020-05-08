@@ -6,7 +6,7 @@ Snippets para importação de fonts do Google Fonts.
 
 Dentro do arquivo .css digite @ seguido do nome da font.
 
-![GIF import-font](./import-font.gif)
+![GIF import-font](https://github.com/titenq/import-font/blob/master/import-font.gif?raw=true)
 
 ## Author
 

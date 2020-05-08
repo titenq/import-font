@@ -3,8 +3,12 @@
     "displayName": "@import-font",
     "publisher": "titenq",
     "description": "Snippets para importação de fonts do Google Fonts.",
-    "icon": "https://github.com/titenq/import-font/blob/master/import-font.gif?raw=true",
+    "icon": "icon.png",
     "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/titenq/import-font.git"
+    },
     "engines": {
         "vscode": "^1.45.0"
     },

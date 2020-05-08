@@ -1,7 +1,7 @@
 {
     "name": "import-font",
     "displayName": "@import-font",
-    "publisher": "TitenQ",
+    "publisher": "titenq",
     "description": "Snippets para importação de fonts do Google Fonts.",
     "icon": "icon.png",
     "version": "1.0.0",

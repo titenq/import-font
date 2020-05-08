@@ -1,0 +1,20 @@
+{
+    "name": "import-font",
+    "displayName": "@import-font",
+    "description": "Snippets para importação de fonts do Google Fonts.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "css",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

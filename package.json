@@ -4,7 +4,7 @@
     "publisher": "titenq",
     "description": "Snippets para importação de fonts do Google Fonts.",
     "icon": "icon.png",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "repository": {
         "type": "git",
         "url": "https://github.com/titenq/import-font.git"

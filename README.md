@@ -1,3 +1,5 @@
+![](https://img.shields.io/visual-studio-marketplace/d/titenq.import-font?color=blue&label=Downloads&logo=visual%20studio%20code&logoColor=white)
+
 # import-font
 ![PNG import-font](https://github.com/titenq/import-font/blob/master/icon.png?raw=true)
 
